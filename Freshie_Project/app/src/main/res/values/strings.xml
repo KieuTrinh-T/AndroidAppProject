@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Freshie</string>
+    <string name="title_home">Home</string>
+    <string name="title_recommend">Recommend</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_category">Category</string>
+
+    <string name="title_account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="reset_forgot_password">Vui lòng cung cấp Email/ Số điện thoại \n để lấy lại mật khẩu</string>
+    <!--    CategoryProduct Pages-->
+    <string name="category_title">Danh mục</string>
+    <string name="perfume">Perfume</string>
+    <string name="skin_care">Skin</string>
+    <string name="hair_care">Hair</string>
+    <string name="makeup">Makeup</string>
+    <!-- Cart Page-->
+    <string name="cart_title">Giỏ hàng</string>
+
+    <!--    Login Page-->
+    <string name="skip_login">Bỏ qua</string>
+    <string name="Freshie">Freshie</string>
+</resources>
